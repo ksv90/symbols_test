@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+deprecated/
+dist/
+build/
+public/*.js
+.parcel-cache/
+.idea/
+.vscode/
+.history/
+*.sublime-project
+*.sublime-workspace
